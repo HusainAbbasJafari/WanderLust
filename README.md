@@ -1,4 +1,4 @@
-# 🌍 Wanderlust
+# Wanderlust
 
 A full-stack travel and hospitality platform for discovering, booking, and reviewing hotels, restaurants, and tourist destinations. Built with Express.js, EJS, MongoDB, and Bootstrap, Wanderlust connects travelers with amazing places while allowing property owners to list their establishments.
 
